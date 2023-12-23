@@ -1,5 +1,5 @@
 import pytest
-from leetcode.ip_address import validate_ipv4
+from leetcode_py.ip_address import validate_ipv4
 
 @pytest.mark.parametrize(
     "string, expected",
